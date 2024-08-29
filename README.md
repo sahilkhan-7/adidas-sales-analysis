@@ -1,2 +1,2 @@
-# adidas-sales-analysis
-👟 Adidas Sales Analysis and PowerBi Dashboard
+# Adidas Sales Analysis 👟
+Adidas Sales Analysis and PowerBi Dashboard
